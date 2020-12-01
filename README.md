@@ -1,5 +1,8 @@
 # go-exp
 
+## Diving Deep Into The Golang Channels
+[Diving Deep Into The Golang Channels] https://codeburst.io/diving-deep-into-the-golang-channels-549fd4ed21a8
+
 ## Use channel to send and receive data
 ```
 package main
